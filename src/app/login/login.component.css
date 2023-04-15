@@ -1,0 +1,57 @@
+p{
+    font-family:"Javanese Text";
+    background-color: #000000a1;
+    display: inline-block;
+    font-weight: lighter;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: -30px;
+    width: 1000px;
+    height: 300px;
+    color: white; 
+}
+
+input[type=text], select {
+	width: 200px;
+	margin: 5px;
+	display: inline-block;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	padding: 5px 5px;
+	box-sizing: border-box;
+}
+
+input[type=password], select {
+	width: 200px;
+	margin: 5px;
+	display: inline-block;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	padding: 5px 5px;
+	box-sizing: border-box;
+}
+
+.button{
+	font-weight: bold;
+	height: 35px;
+	background-color:gray;
+	border: none;
+	color:white;
+	width: 200px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	font-family: "Javanese Text";
+	margin: 4px 2px;
+}
+
+.button1{
+    border-radius: 5px;
+}
+
+#link{
+	font-family: "Javanese Text";
+	font-weight: lighter;
+	color: white;
+}

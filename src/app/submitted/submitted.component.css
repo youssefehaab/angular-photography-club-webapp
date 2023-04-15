@@ -1,0 +1,12 @@
+p{
+    font-family:"Javanese Text";
+    background-color:#000000a1;
+    display: inline-block;
+    font-weight:lighter;
+    border-radius: 20px;
+    font-size:50px;
+    padding: 5%;
+	height: 350px;
+	width:1150px;
+    color:white;
+}

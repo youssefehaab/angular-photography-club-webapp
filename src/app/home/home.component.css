@@ -1,0 +1,55 @@
+#p1{
+    font-family:"Javanese Text";
+    background-color:#000000a1;
+    display: inline-block;
+    font-weight:lighter;
+    text-align: left;
+    margin: 1%;
+    font-size:20px;
+    padding: 20px;
+	height: 70vh;
+	width:1150px;
+    color:white;
+}
+
+#img1{
+    padding-right: 10px;
+    padding-left: 5px;
+    float: left;
+}
+
+#img2{
+    padding-left: 10px;
+    padding-right: 5px;
+    float: right;
+}
+
+#img3{
+    padding-left: 10px;
+    padding-right: 5px;
+    float: left;
+}
+
+#img4{
+    padding-left: 10px;
+    padding-right: 5px;
+    float: right;
+}
+
+#img5{
+    padding-left: 10px;
+    padding-right: 5px;
+    float: left;
+}
+
+#img6{
+    padding-left: 10px;
+    padding-right: 5px;
+    float: right;
+}
+
+@media screen and (max-width: 450px) {
+    .text {
+      display: none;
+    }
+  }
